@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "address": "TT4dT79VjHEmJibv1u5LSKgpfF53BUS15c",
+  "chainId": 1111,
+  "logoURI": "https://raw.githubusercontent.com/babak2230/tron-token-assets/main/assets/blockchains/tron/assets/TT4dT79VjHEmJibv1u5LSKgpfF53BUS15c/logo.png",
+  "website": "https://tether.to",
+  "description": "Tether USD (USDT) is a TRC20 stablecoin that mirrors the value of the U.S. dollar and is widely used on the Tron blockchain.",
+  "tags": ["stablecoin", "usd-pegged", "tron", "trc20"]
+}
